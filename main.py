@@ -17,3 +17,5 @@ if __name__ == '__main__':
 #  let me tell you same thing
 # вяаиваив
 # sjdbckbckb
+# strbaks
+# rip
