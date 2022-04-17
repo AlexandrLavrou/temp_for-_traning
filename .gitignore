@@ -1,8 +1,0 @@
-/.gotognore
-venv/
-.idea/
-__pycache__/
-env/
-.log
-mypasswords.py
-/.gitignore
