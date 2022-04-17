@@ -19,3 +19,4 @@ if __name__ == '__main__':
 # sjdbckbckb
 # strbaks
 # rip
+# It`s not ease to see how russia became faile state with stuped peple who want capture nabore country  
